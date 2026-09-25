@@ -23,7 +23,7 @@ SafePass is an offline password manager written in Python with Tkinter. This app
 ## Screenshots
 
 ### Creat New Vault
-<img src="https://user-images.githubusercontent.com/90812860/196935937-2a7c2686-5c0d-4449-a4ff-2f0e335219be.png" width="45%">
+<img src="https:Surajwani7//user-images.githubusercontent.com/90812860/196935937-2a7c2686-5c0d-4449-a4ff-2f0e335219be.png" width="45%">
 <!-- ![SafePass - New Vault_003](https://user-images.githubusercontent.com/90812860/196935937-2a7c2686-5c0d-4449-a4ff-2f0e335219be.png) -->
 
 ### Login
